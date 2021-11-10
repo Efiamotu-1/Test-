@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="ActionShare">Share with Friends</string>
+    <string name="ActionFavourites">Add to Favouries</string>
+    <string name="ActionBookmark">Bookmark</string>
+    <string name="ActionInfo">More Information</string>
+    <string name="ActionExtra">Extra Information</string>
+</resources>
